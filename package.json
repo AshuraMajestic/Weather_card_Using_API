@@ -1,0 +1,14 @@
+{
+  "name": "dynamic_weather_website",
+  "version": "1.0.0",
+  "description": "Creating a weather node js app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashura",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
